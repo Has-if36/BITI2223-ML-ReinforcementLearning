@@ -23,3 +23,9 @@ Everytime it gets hit on obstacle, it will receive punishment.
 ## Results
 ![Screenshot 2022-03-18 170956](https://user-images.githubusercontent.com/55189926/158974115-337b1f66-3b86-483e-beff-62b862237614.png)
 
+<p align="center">
+  <img width="508" height="400" src="https://user-images.githubusercontent.com/55189926/158974115-337b1f66-3b86-483e-beff-62b862237614.png">
+  <br>
+  Result
+  <br>
+</p>
