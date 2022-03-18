@@ -29,5 +29,7 @@ Everytime it gets hit on obstacle, it will receive punishment.
   <br>
 </p>
 
-From here we can see the AI barely learn and getting improve. Since the game speed gets faster as the Dino gets higher score, this may effect the decision of the AI to improve. Secondly, the observation for the distance between the Dino and the Obstacle (when it gets near) might also gave the AI much larger decision, where it gets to decide at which distance to take the action. This can also slow down the process for the AI to learn. Furthermore, having to get higher speed as it gets higher score, this can also give a disrupt to the AI, where it was actualy did the right decision, but the game was to fast for the Dino to react. This can affect the learning process and cause the AI learning process to fall.
+From here we can see the AI barely learn and getting improve. Since the game speed gets faster as the Dino gets higher score, this may effect the decision of the AI to improve.  
+Secondly, the observation for the distance between the Dino and the Obstacle (when it gets near) might also gave the AI much larger decision, where it gets to decide at which distance to take the action. This can also slow down the process for the AI to learn.  
+Furthermore, having to get higher speed as it gets higher score, this can also give a disrupt to the AI, where it was actualy did the right decision, but the game was to fast for the Dino to react. This can affect the learning process and cause the AI learning process to fall.
 
