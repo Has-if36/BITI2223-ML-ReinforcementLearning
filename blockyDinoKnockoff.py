@@ -266,16 +266,17 @@ def main():
             pygame.display.set_mode((800, 600))
         else:
             pygame.display.set_mode((1, 1))
-            episode_rewards.append(score)
-            epsilon *= EPS_DECAY
-            print(f"Score: {score}")
+
+        episode_rewards.append(score)
+        epsilon *= EPS_DECAY
+        print(f"Score: {score}")
 
     pygame.quit()
     plot_table()
 
 
 def plot_table():
-    score_avg = np.convolve(episode_rewards, np.ones((SHOW_EVERY,)) / SHOW_EVERY, mode="valid")
+    score_avg = np.convolve(a=episode_rewards, v=np.ones((SHOW_EVERY,)) / SHOW_EVERY, mode="valid")
     plt.plot([i for i in range(len(score_avg))], score_avg)
     plt.ylabel(f"rewards {SHOW_EVERY}")
     plt.xlabel(f"episode #")
