@@ -1,2 +1,1 @@
-# BITI2223-ML-ReinforcementLearning
-Machine Learning Reinforcement Learning
+## University Assignment 2 under Machine Learning Subject (BITI2223)
