@@ -23,7 +23,10 @@ Everytime it gets hit on obstacle, it will receive punishment.
 ## Results
 <p align="center">
   <img width="508" height="400" src="https://user-images.githubusercontent.com/55189926/158974115-337b1f66-3b86-483e-beff-62b862237614.png">
+  <img width="471" height="400" src="https://user-images.githubusercontent.com/55189926/159007007-e7848715-8773-4f75-852b-679bdc4b8590.png">
   <br>
   Result
   <br>
 </p>
+![Screenshot 2022-03-18 205736](https://user-images.githubusercontent.com/55189926/159007007-e7848715-8773-4f75-852b-679bdc4b8590.png)
+
